@@ -34,5 +34,5 @@ http://localhost:8080/Univent/index.html
 ## 👨‍💻 Author
 Samiksha Jaiswal
 
-GitHub: https://github.com/yourusername  
-LinkedIn: https://linkedin.com/in/yourprofile
+GitHub: https://github.com/Samik-sha 
+LinkedIn: https://www.linkedin.com/in/samiksha-jaiswal-261448380/
